@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Development/code"
+		},
+		{
+			"name": "test911",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"new": "cpp",
+			"ios": "cpp",
+			"string": "cpp",
+			"__bit_reference": "cpp",
+			"bitset": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"iomanip": "cpp",
+			"__hash_table": "cpp",
+			"__split_buffer": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"string_view": "cpp",
+			"vector": "cpp",
+			"algorithm": "cpp",
+			"limits": "cpp",
+			"ratio": "cpp",
+			"map": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}
