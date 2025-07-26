@@ -58,4 +58,4 @@ This project is a **Smart Home Automation System** developed using **AVR ATmega3
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Home-Automation-AVR.git
+git clone https://github.com/YOUSSEF-HASSAN-336/Smart-Home-Automation-AVR.git
